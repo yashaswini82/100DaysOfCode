@@ -1,2 +1,4 @@
-# 100DaysOfCode
-My progress and projects from the 100 Days of Python challenge.
+# 100 Days of Python
+This repository contains my progress from the 100 Days of Python Bootcamp.
+
+Day 1 – Band Name Generator
