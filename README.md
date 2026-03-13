@@ -5,3 +5,5 @@ Day 1 – Band Name Generator
 
 Day 2 - BMI Calculator
       - Tip Calculator
+
+Day 3 - Tresure island
